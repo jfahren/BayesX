@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/bayesx/!svn/ver/436/trunk/sfunctions
+END
+plot.s
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bayesx/!svn/ver/206/trunk/sfunctions/plot.s
+END
+plotsurf.s
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/bayesx/!svn/ver/37/trunk/sfunctions/plotsurf.s
+END
+shp2poly.r
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/bayesx/!svn/ver/419/trunk/sfunctions/shp2poly.r
+END
+plotsample.s
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/bayesx/!svn/ver/37/trunk/sfunctions/plotsample.s
+END
+drawmap.r
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/bayesx/!svn/ver/436/trunk/sfunctions/drawmap.r
+END
+drawmap.s
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bayesx/!svn/ver/37/trunk/sfunctions/drawmap.s
+END
+drawmap.u.r
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/bayesx/!svn/ver/436/trunk/sfunctions/drawmap.u.r
+END
+drawmap.u.s
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/bayesx/!svn/ver/37/trunk/sfunctions/drawmap.u.s
+END
+readbndfile.r
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bayesx/!svn/ver/37/trunk/sfunctions/readbndfile.r
+END
+readbndfile.s
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bayesx/!svn/ver/37/trunk/sfunctions/readbndfile.s
+END
+readbndfile.u.r
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bayesx/!svn/ver/37/trunk/sfunctions/readbndfile.u.r
+END
+readbndfile.u.s
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bayesx/!svn/ver/37/trunk/sfunctions/readbndfile.u.s
+END
+plotnonp.s
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/bayesx/!svn/ver/37/trunk/sfunctions/plotnonp.s
+END
+plotautocor.s
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/bayesx/!svn/ver/206/trunk/sfunctions/plotautocor.s
+END
+plot.r
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bayesx/!svn/ver/392/trunk/sfunctions/plot.r
+END
+plotsurf.r
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/bayesx/!svn/ver/349/trunk/sfunctions/plotsurf.r
+END

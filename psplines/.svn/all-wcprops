@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/bayesx/!svn/ver/1158/trunk/psplines
+END
+bsplinemat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bayesx/!svn/ver/912/trunk/psplines/bsplinemat.cpp
+END
+fullcond_pspline_surf_gaussian.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bayesx/!svn/ver/912/trunk/psplines/fullcond_pspline_surf_gaussian.h
+END
+fullcond_pspline_gaussian.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bayesx/!svn/ver/912/trunk/psplines/fullcond_pspline_gaussian.h
+END
+fullcond_projection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/bayesx/!svn/ver/912/trunk/psplines/fullcond_projection.cpp
+END
+bsplinemat.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/bayesx/!svn/ver/912/trunk/psplines/bsplinemat.h
+END
+fullcond_projection.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bayesx/!svn/ver/912/trunk/psplines/fullcond_projection.h
+END
+mcmc_pspline_surf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bayesx/!svn/ver/1158/trunk/psplines/mcmc_pspline_surf.cpp
+END
+IWLS_pspline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bayesx/!svn/ver/912/trunk/psplines/IWLS_pspline.cpp
+END
+mcmc_pspline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bayesx/!svn/ver/912/trunk/psplines/mcmc_pspline.cpp
+END
+spline_basis_surf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bayesx/!svn/ver/912/trunk/psplines/spline_basis_surf.cpp
+END
+spline_basis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bayesx/!svn/ver/912/trunk/psplines/spline_basis.cpp
+END
+mcmc_pspline_surf.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bayesx/!svn/ver/912/trunk/psplines/mcmc_pspline_surf.h
+END
+IWLS_pspline.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bayesx/!svn/ver/912/trunk/psplines/IWLS_pspline.h
+END
+mcmc_pspline.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bayesx/!svn/ver/912/trunk/psplines/mcmc_pspline.h
+END
+spline_basis_surf.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bayesx/!svn/ver/912/trunk/psplines/spline_basis_surf.h
+END
+spline_basis.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bayesx/!svn/ver/912/trunk/psplines/spline_basis.h
+END
+fullcond_pspline_surf_stepwise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/bayesx/!svn/ver/1158/trunk/psplines/fullcond_pspline_surf_stepwise.cpp
+END
+fullcond_pspline_stepwise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bayesx/!svn/ver/1158/trunk/psplines/fullcond_pspline_stepwise.cpp
+END
+fullcond_pspline_surf_stepwise.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bayesx/!svn/ver/912/trunk/psplines/fullcond_pspline_surf_stepwise.h
+END
+fullcond_pspline_stepwise.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bayesx/!svn/ver/912/trunk/psplines/fullcond_pspline_stepwise.h
+END
+fullcond_pspline_surf_gaussian.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/bayesx/!svn/ver/912/trunk/psplines/fullcond_pspline_surf_gaussian.cpp
+END
+fullcond_pspline_gaussian.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bayesx/!svn/ver/912/trunk/psplines/fullcond_pspline_gaussian.cpp
+END

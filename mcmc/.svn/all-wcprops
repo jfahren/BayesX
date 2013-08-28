@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/bayesx/!svn/ver/1158/trunk/mcmc
+END
+fullcond_surf_gaussian.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bayesx/!svn/ver/912/trunk/mcmc/fullcond_surf_gaussian.cpp
+END
+distribution_glasgow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bayesx/!svn/ver/912/trunk/mcmc/distribution_glasgow.cpp
+END
+baseline_reml.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/bayesx/!svn/ver/912/trunk/mcmc/baseline_reml.h
+END
+fullcond_mult.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/bayesx/!svn/ver/912/trunk/mcmc/fullcond_mult.cpp
+END
+gaussian_heteroskedastic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bayesx/!svn/ver/912/trunk/mcmc/gaussian_heteroskedastic.cpp
+END
+fullcond.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/bayesx/!svn/ver/912/trunk/mcmc/fullcond.h
+END
+kriging2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bayesx/!svn/ver/912/trunk/mcmc/kriging2.cpp
+END
+remlest_multi3.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/bayesx/!svn/ver/912/trunk/mcmc/remlest_multi3.h
+END
+mcmc_nonp.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bayesx/!svn/ver/912/trunk/mcmc/mcmc_nonp.h
+END
+variance_nonp_vector_nigmix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bayesx/!svn/ver/912/trunk/mcmc/variance_nonp_vector_nigmix.cpp
+END
+distribution.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/bayesx/!svn/ver/1158/trunk/mcmc/distribution.cpp
+END
+mcmcsimul2.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bayesx/!svn/ver/912/trunk/mcmc/mcmcsimul2.h
+END
+randomeffect_stepwise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bayesx/!svn/ver/1158/trunk/mcmc/randomeffect_stepwise.cpp
+END
+remlest.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/bayesx/!svn/ver/912/trunk/mcmc/remlest.h
+END
+fullcond_nonp_gaussian_stepwise.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bayesx/!svn/ver/912/trunk/mcmc/fullcond_nonp_gaussian_stepwise.h
+END
+remlest_cox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/bayesx/!svn/ver/912/trunk/mcmc/remlest_cox.cpp
+END
+remlest_multistate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bayesx/!svn/ver/912/trunk/mcmc/remlest_multistate.cpp
+END
+mcmc_const.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bayesx/!svn/ver/912/trunk/mcmc/mcmc_const.h
+END
+tvariance2dim.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/bayesx/!svn/ver/912/trunk/mcmc/tvariance2dim.h
+END
+mcmcsimul.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bayesx/!svn/ver/912/trunk/mcmc/mcmcsimul.h
+END
+fullcond_nonp_gaussian.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bayesx/!svn/ver/912/trunk/mcmc/fullcond_nonp_gaussian.h
+END
+kriging.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/bayesx/!svn/ver/912/trunk/mcmc/kriging.h
+END
+mcmc_nonpbasis.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/bayesx/!svn/ver/912/trunk/mcmc/mcmc_nonpbasis.h
+END
+fullcond_merror.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/bayesx/!svn/ver/912/trunk/mcmc/fullcond_merror.h
+END
+baseline_reml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/bayesx/!svn/ver/912/trunk/mcmc/baseline_reml.cpp
+END
+distribution_glasgow.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bayesx/!svn/ver/912/trunk/mcmc/distribution_glasgow.h
+END
+mcmc_nonp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/bayesx/!svn/ver/912/trunk/mcmc/mcmc_nonp.cpp
+END
+remlest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bayesx/!svn/ver/1158/trunk/mcmc/remlest.cpp
+END
+mcmcsimul2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bayesx/!svn/ver/912/trunk/mcmc/mcmcsimul2.cpp
+END
+tvariance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/bayesx/!svn/ver/912/trunk/mcmc/tvariance.cpp
+END
+fullcond_nonp_gaussian_stepwise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bayesx/!svn/ver/1158/trunk/mcmc/fullcond_nonp_gaussian_stepwise.cpp
+END
+kriging2.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/bayesx/!svn/ver/912/trunk/mcmc/kriging2.h
+END
+variance_nonp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/bayesx/!svn/ver/912/trunk/mcmc/variance_nonp.cpp
+END
+mcmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/bayesx/!svn/ver/912/trunk/mcmc/mcmc.h
+END
+mcmc_const.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bayesx/!svn/ver/912/trunk/mcmc/mcmc_const.cpp
+END
+randomeffect_stepwise.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bayesx/!svn/ver/912/trunk/mcmc/randomeffect_stepwise.h
+END
+hrandom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bayesx/!svn/ver/912/trunk/mcmc/hrandom.cpp
+END
+mcmcsimul.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/bayesx/!svn/ver/912/trunk/mcmc/mcmcsimul.cpp
+END
+remlest_cox.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/bayesx/!svn/ver/912/trunk/mcmc/remlest_cox.h
+END
+mcmc_nonpbasis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bayesx/!svn/ver/912/trunk/mcmc/mcmc_nonpbasis.cpp
+END
+remlest_multistate.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bayesx/!svn/ver/912/trunk/mcmc/remlest_multistate.h
+END
+mcmc_ridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bayesx/!svn/ver/912/trunk/mcmc/mcmc_ridge.h
+END
+variance_nonp_vector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bayesx/!svn/ver/912/trunk/mcmc/variance_nonp_vector.cpp
+END
+mcmc_const_stepwise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bayesx/!svn/ver/912/trunk/mcmc/mcmc_const_stepwise.cpp
+END
+remlest_multi2.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/bayesx/!svn/ver/912/trunk/mcmc/remlest_multi2.h
+END
+mcmc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/bayesx/!svn/ver/912/trunk/mcmc/mcmc.cpp
+END
+tvariance.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bayesx/!svn/ver/912/trunk/mcmc/tvariance.h
+END
+variance_nonp.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/bayesx/!svn/ver/912/trunk/mcmc/variance_nonp.h
+END
+mcmc_ridge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bayesx/!svn/ver/912/trunk/mcmc/mcmc_ridge.cpp
+END
+mcmcsimul2_multi.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bayesx/!svn/ver/912/trunk/mcmc/mcmcsimul2_multi.h
+END
+remlest_multi.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/bayesx/!svn/ver/912/trunk/mcmc/remlest_multi.h
+END
+hrandom.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/bayesx/!svn/ver/912/trunk/mcmc/hrandom.h
+END
+randomeffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bayesx/!svn/ver/912/trunk/mcmc/randomeffect.h
+END
+fullcond_surf_gaussian.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bayesx/!svn/ver/912/trunk/mcmc/fullcond_surf_gaussian.h
+END
+fullcond.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bayesx/!svn/ver/912/trunk/mcmc/fullcond.cpp
+END
+remlest_multi2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/bayesx/!svn/ver/1158/trunk/mcmc/remlest_multi2.cpp
+END
+remlest_multi3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/bayesx/!svn/ver/1158/trunk/mcmc/remlest_multi3.cpp
+END
+variance_nonp_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bayesx/!svn/ver/912/trunk/mcmc/variance_nonp_vector.h
+END
+fullcond_mult.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/bayesx/!svn/ver/912/trunk/mcmc/fullcond_mult.h
+END
+mcmc_const_stepwise.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/bayesx/!svn/ver/912/trunk/mcmc/mcmc_const_stepwise.h
+END
+randomeffect_alt2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/bayesx/!svn/ver/912/trunk/mcmc/randomeffect_alt2.cpp
+END
+gaussian_heteroskedastic.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bayesx/!svn/ver/916/trunk/mcmc/gaussian_heteroskedastic.h
+END
+variance_nonp_vector_nigmix.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bayesx/!svn/ver/912/trunk/mcmc/variance_nonp_vector_nigmix.h
+END
+distribution.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bayesx/!svn/ver/916/trunk/mcmc/distribution.h
+END
+remlest_multi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bayesx/!svn/ver/1158/trunk/mcmc/remlest_multi.cpp
+END
+mcmcsimul2_multi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bayesx/!svn/ver/915/trunk/mcmc/mcmcsimul2_multi.cpp
+END
+tvariance2dim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bayesx/!svn/ver/1158/trunk/mcmc/tvariance2dim.cpp
+END
+fullcond_nonp_gaussian.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bayesx/!svn/ver/912/trunk/mcmc/fullcond_nonp_gaussian.cpp
+END
+kriging.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bayesx/!svn/ver/912/trunk/mcmc/kriging.cpp
+END
+fullcond_merror.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/bayesx/!svn/ver/915/trunk/mcmc/fullcond_merror.cpp
+END
+randomeffect_alt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bayesx/!svn/ver/912/trunk/mcmc/randomeffect_alt.cpp
+END
+randomeffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/bayesx/!svn/ver/912/trunk/mcmc/randomeffect.cpp
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/bayesx/!svn/ver/1161/trunk/testh/prgsim
+END
+gaussianh_spatial.do
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bayesx/!svn/ver/698/trunk/testh/prgsim/gaussianh_spatial.do
+END
+hgaussian_nonp_1fkt.do
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bayesx/!svn/ver/735/trunk/testh/prgsim/hgaussian_nonp_1fkt.do
+END
+gaussian_varcoeff.do
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bayesx/!svn/ver/1161/trunk/testh/prgsim/gaussian_varcoeff.do
+END
+gaussian_spatial_1fkt.do
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bayesx/!svn/ver/689/trunk/testh/prgsim/gaussian_spatial_1fkt.do
+END
+gaussianh_nonp.do
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bayesx/!svn/ver/712/trunk/testh/prgsim/gaussianh_nonp.do
+END
+hbinomial_linear.do
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/bayesx/!svn/ver/771/trunk/testh/prgsim/hbinomial_linear.do
+END
+hgaussian_linear.do
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/bayesx/!svn/ver/771/trunk/testh/prgsim/hgaussian_linear.do
+END
+multinom_sim.do
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bayesx/!svn/ver/951/trunk/testh/prgsim/multinom_sim.do
+END

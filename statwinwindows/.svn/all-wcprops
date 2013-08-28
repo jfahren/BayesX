@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/bayesx/!svn/ver/932/trunk/statwinwindows
+END
+statwin_haupt.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bayesx/!svn/ver/932/trunk/statwinwindows/statwin_haupt.h
+END
+StatReview.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bayesx/!svn/ver/932/trunk/statwinwindows/StatReview.h
+END
+StatResults.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bayesx/!svn/ver/932/trunk/statwinwindows/StatResults.h
+END
+StatwinFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bayesx/!svn/ver/932/trunk/statwinwindows/StatwinFrame.cpp
+END
+StatwinFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bayesx/!svn/ver/932/trunk/statwinwindows/StatwinFrame.h
+END
+StatObjects.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bayesx/!svn/ver/3/trunk/statwinwindows/StatObjects.dfm
+END
+statwin_haupt.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bayesx/!svn/ver/3/trunk/statwinwindows/statwin_haupt.dfm
+END
+StatReview.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bayesx/!svn/ver/3/trunk/statwinwindows/StatReview.dfm
+END
+StatResults.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bayesx/!svn/ver/3/trunk/statwinwindows/StatResults.dfm
+END
+StatObjects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bayesx/!svn/ver/932/trunk/statwinwindows/StatObjects.cpp
+END
+StatwinFrame.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bayesx/!svn/ver/3/trunk/statwinwindows/StatwinFrame.dfm
+END
+statwin_haupt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/bayesx/!svn/ver/932/trunk/statwinwindows/statwin_haupt.cpp
+END
+StatObjects.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bayesx/!svn/ver/932/trunk/statwinwindows/StatObjects.h
+END
+StatReview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bayesx/!svn/ver/932/trunk/statwinwindows/StatReview.cpp
+END
+StatResults.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bayesx/!svn/ver/932/trunk/statwinwindows/StatResults.cpp
+END

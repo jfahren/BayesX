@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/bayesx/!svn/ver/948/trunk/dag
+END
+ia.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/bayesx/!svn/ver/914/trunk/dag/ia.h
+END
+fullcond_dag_ia.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/bayesx/!svn/ver/914/trunk/dag/fullcond_dag_ia.h
+END
+fullcond_rj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bayesx/!svn/ver/912/trunk/dag/fullcond_rj.cpp
+END
+func_dag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bayesx/!svn/ver/912/trunk/dag/func_dag.cpp
+END
+fullcond_rj.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bayesx/!svn/ver/914/trunk/dag/fullcond_rj.h
+END
+functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bayesx/!svn/ver/912/trunk/dag/functions.cpp
+END
+fullcond_rj_ia.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/bayesx/!svn/ver/912/trunk/dag/fullcond_rj_ia.cpp
+END
+func_dag.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/bayesx/!svn/ver/912/trunk/dag/func_dag.h
+END
+fullcond_rj_int.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bayesx/!svn/ver/912/trunk/dag/fullcond_rj_int.cpp
+END
+functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/bayesx/!svn/ver/912/trunk/dag/functions.h
+END
+fullcond_rj_mix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bayesx/!svn/ver/912/trunk/dag/fullcond_rj_mix.cpp
+END
+ia_mixed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bayesx/!svn/ver/912/trunk/dag/ia_mixed.cpp
+END
+fullcond_rj_ia.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/bayesx/!svn/ver/912/trunk/dag/fullcond_rj_ia.h
+END
+fullcond_rj_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/bayesx/!svn/ver/912/trunk/dag/fullcond_rj_int.h
+END
+fullcond_dag_ia_mixed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bayesx/!svn/ver/912/trunk/dag/fullcond_dag_ia_mixed.cpp
+END
+fullcond_dag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/bayesx/!svn/ver/912/trunk/dag/fullcond_dag.cpp
+END
+adjacency.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bayesx/!svn/ver/912/trunk/dag/adjacency.cpp
+END
+dagobject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bayesx/!svn/ver/912/trunk/dag/dagobject.cpp
+END
+ia_ok.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/bayesx/!svn/ver/912/trunk/dag/ia_ok.cpp
+END
+fullcond_rj_mix.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/bayesx/!svn/ver/912/trunk/dag/fullcond_rj_mix.h
+END
+fullcond_dag_d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/bayesx/!svn/ver/912/trunk/dag/fullcond_dag_d.cpp
+END
+ia_mixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/bayesx/!svn/ver/912/trunk/dag/ia_mixed.h
+END
+fullcond_dag_ia_mixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bayesx/!svn/ver/914/trunk/dag/fullcond_dag_ia_mixed.h
+END
+fullcond_dag.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/bayesx/!svn/ver/914/trunk/dag/fullcond_dag.h
+END
+adjacency.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/bayesx/!svn/ver/948/trunk/dag/adjacency.h
+END
+dagobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/bayesx/!svn/ver/914/trunk/dag/dagobject.h
+END
+ia_ok.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/bayesx/!svn/ver/912/trunk/dag/ia_ok.h
+END
+fullcond_dag_d.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/bayesx/!svn/ver/914/trunk/dag/fullcond_dag_d.h
+END
+ia.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/bayesx/!svn/ver/912/trunk/dag/ia.cpp
+END
+fullcond_dag_ia.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bayesx/!svn/ver/912/trunk/dag/fullcond_dag_ia.cpp
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/bayesx/!svn/ver/1167/trunk/testh/prg
+END
+binomialh_spatial.do
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bayesx/!svn/ver/689/trunk/testh/prg/binomialh_spatial.do
+END
+hgaussian_varcoeff_1fkt2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bayesx/!svn/ver/1167/trunk/testh/prg/hgaussian_varcoeff_1fkt2.txt
+END
+hbinomial_linear.prg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bayesx/!svn/ver/771/trunk/testh/prg/hbinomial_linear.prg
+END
+hbinomial_linear_alt.prg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bayesx/!svn/ver/739/trunk/testh/prg/hbinomial_linear_alt.prg
+END
+gaussianh_nonp1.prg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bayesx/!svn/ver/712/trunk/testh/prg/gaussianh_nonp1.prg
+END
+gaussianh_nonp1_alt.prg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bayesx/!svn/ver/712/trunk/testh/prg/gaussianh_nonp1_alt.prg
+END
+gaussianh_spatial_alt.prg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bayesx/!svn/ver/698/trunk/testh/prg/gaussianh_spatial_alt.prg
+END
+gaussianh_spatial_work.prg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bayesx/!svn/ver/698/trunk/testh/prg/gaussianh_spatial_work.prg
+END
+hgaussian_nonp_1fkt.prg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bayesx/!svn/ver/951/trunk/testh/prg/hgaussian_nonp_1fkt.prg
+END
+hgaussian_nonp_1fkt_alt.prg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bayesx/!svn/ver/771/trunk/testh/prg/hgaussian_nonp_1fkt_alt.prg
+END
+multinom.prg
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/bayesx/!svn/ver/951/trunk/testh/prg/multinom.prg
+END
+hgaussian_varcoeff_1fkt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bayesx/!svn/ver/1167/trunk/testh/prg/hgaussian_varcoeff_1fkt.txt
+END
+gaussian_spatial_1fkt_alt.prg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bayesx/!svn/ver/689/trunk/testh/prg/gaussian_spatial_1fkt_alt.prg
+END
+hgaussian_linear.prg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bayesx/!svn/ver/939/trunk/testh/prg/hgaussian_linear.prg
+END
+hgaussian_linear_alt.prg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bayesx/!svn/ver/739/trunk/testh/prg/hgaussian_linear_alt.prg
+END
+gaussian_spatial_1fkt_work.prg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bayesx/!svn/ver/771/trunk/testh/prg/gaussian_spatial_1fkt_work.prg
+END
